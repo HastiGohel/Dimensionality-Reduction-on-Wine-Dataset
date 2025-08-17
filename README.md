@@ -44,4 +44,4 @@ It includes data preprocessing, PCA application, visualization, and a comparison
 
 ### Clone the Repository
 ```bash
-https://github.com/HastiGohel/wine-pca-dim-reduction.git
+[https://github.com/HastiGohel/wine-pca-dim-reduction.git](https://github.com/HastiGohel/Dimensionality-Reduction-on-Wine-Dataset)
